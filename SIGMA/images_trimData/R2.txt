@@ -1,0 +1,18 @@
+x = 
+
+     Linear model Poly2:
+     x(x) = p1*x^2 + p2*x + p3
+     Coefficients (with 95% confidence bounds):
+       p1 =       2.354  (1.523, 3.184)
+       p2 =      -604.2  (-816.9, -391.4)
+       p3 =   3.881e+04  (2.518e+04, 5.243e+04)
+>> y
+
+y = 
+
+     Linear model Poly2:
+     y(x) = p1*x^2 + p2*x + p3
+     Coefficients (with 95% confidence bounds):
+       p1 =      0.7412  (-2.495, 3.978)
+       p2 =      -188.1  (-1012, 635.3)
+       p3 =   1.206e+04  (-4.028e+04, 6.44e+04)
